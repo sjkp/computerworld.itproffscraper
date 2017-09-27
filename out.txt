@@ -1,0 +1,21 @@
+h
+Mathias Schütte er ansat som konsulent i PA Consulting Groups IT Assurance & Delivery-team, hvor han primært skal arbejde med agil transformation og levering af it-projekter. Mathias har en kandidatgrad i it-ledelse fra Aalborg Universitet og har tidligere arbejdet for KMD.
+
+Rune Posselt er ansat som konsulent i PA Consulting Groups IT Assurance & Delivery-team, hvor han primært skal arbejde med implementering af agile arbejdsmetoder, herunder SAFe og Scrum. Rune har en kandidatgrad i it-ledelse fra Aalborg Universitet og har tidligere arbejdet med blandt andet procesoptimering.
+
+Martin Skovgaard er ansat som konsulent i PA Consulting Groups IT Assurance & Delivery-team. Martin har mere end 10 års erfaring med agile projekter og programmer og er certificeret inden for SAFe og Scrum. Han har desuden arbejdet med rådgivning inden for test, quality & requirement management, primært i den finansielle sektor. Martin har en fortid som COO i Testhuset A/S og kommer senest fra en stilling som product director i Prodata  A/S.
+
+Louise Rajczyk er ansat som konsulent i PA Consulting Groups Transport, Travel & Logistics-team, hvor hun primært skal arbejde med fremtidens transport og udvikle strategier, der gør organisationer klar til fremtidens digitale verden. Louise har en kandidatgrad i strategisk kommunikation fra Københavns Universitet og har tidligere arbejdet med strategiudvikling og kommunikation inden for byplanlægning i Realdania.
+
+Jesper Kristensen er ansat som konsulent i PA Consulting Groups Financial Sector-team, hvor han skal hjælpe kunder med at styrke deres operationelle excellence. Jesper har bred erfaring inden for transformationer, end-to-end-procesdesign, business agile- og compliance-processer og stor indsigt i retail banking. Han har tidligere været ansat i Nykredit, Coop Bank og Nets og har senest siddet som SVP, international head and operations development hos Ikano Bank.
+
+Kasper Boutrup Christensen er ansat som konsulent i PA Consulting Groups Government-team, hvor han primært skal arbejde med projekter i den offentlige sektor inden for blandt andet it-området. Kasper kommer fra en stilling som specialkonsulent i Skatteministeriets departement, hvor han blandt andet beskæftigede sig med design af fremtidens skattevæsen og inddrivelsesområdet. Kasper har en kandidatgrad i politik og administration fra Aalborg Universitet.
+
+Emma Møller Jeppesen er ansat som konsulent i PA Consulting Groups Government-team, hvor hun blandt andet vil fokusere på projekter i sundhedssektoren. Emma har en sundhedsfaglig baggrund og en kandidatgrad i digital innovation og management fra IT-Universitetet.
+
+Ronnie Eriksson er ansat som managing consultant i PA Consulting Groups Government-team. Ronnie har mere end 15 års erfaring med digitalisering og effektivisering på tværs af kommuner, regioner og statslige myndigheder og har, fra sin tid i Danske Regioner og Finansministeriet, et bredt kendskab til centraladministrationen og sundhedsvæsenet samt et særligt fokus på modernisering af den offentlige sektor gennem bedre anvendelse af it, data, procesoptimering og effektiv opgaveorganisering. Senest har Ronnie, som underdirektør i Skat, stået i spidsen for at genoprette driften af den offentlige gældsinddrivelse i Danmark efter beslutningen om at nedlukke EFI-systemet i november 2015.
+
+Netcompany har ansat Anne Lyngholm Sørensen som consultant i Information Management-afdelingen, hvor hun blamdt andet skal beskæftige sig med dataanalyse ved brug af traditionelle statistiske metoder og machine learning. Anne, som er uddannet cand.scient. i statistik fra Københavns Universitet i 2017, har indtil sin ansættelse arbejdet som blandt andet undervisningsassistent inden for anvendt og teoretisk statistik og som studentermedhjælper inden for biostatistik.
+
+Netcompany har ansat Allan Flamand som team manager inden for CMS, SharePoint og GetOrganized. Allan har 15 års erfaring med projekt- og teamledelse inden for CMS, videostreaming og softwareudvikling.
+
